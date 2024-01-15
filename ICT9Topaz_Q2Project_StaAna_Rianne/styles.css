@@ -1,0 +1,98 @@
+body {
+	background-image: url("https://www.godsavethepoints.com/wp-content/uploads/2019/01/28101293_m.jpg");		
+	background-attachment: fixed;	
+	background-position: center center;
+	background-repeat: no-repeat;	
+	background-size: cover;
+}
+
+
+img {
+	width: 300px;
+	height: 200px;
+	border-radius: 8px;
+}
+
+
+hr {
+  border-top: 3px solid black;
+}
+
+
+h1 {
+	text-align: center;
+	font-family: Bebas Neue;
+	background: linear-gradient(0deg, rgba(242,246,140,1) 10%, rgba(86,255,114,1) 50%, rgba(42,150,255,1) 90%);
+	border: 2px solid black;
+    border-radius: 15px;
+    margin: 20px 0;
+}
+
+
+h2 {
+	font-family: Bebas Neue;
+	background: linear-gradient(0deg, rgba(220,227,66,1) 10%, rgba(189,255,86,1) 50%, rgba(126,255,100,1) 90%);
+	text-align: center;
+}
+
+
+h3 {
+	font-family: Bebas Neue;
+	text-align: center;
+}
+
+
+h4 {
+	font-family: Noto Sans;
+	text-align: center;
+    font-weight: bold;
+	border-radius: 15px;
+    background-color: #FFF640;    
+}
+
+
+p {
+	font-family: Noto Sans;
+	text-align: center;
+    font-weight: bold;
+}
+
+
+li {
+	font-family: Noto Sans;
+	justify-content: center;
+}
+
+
+.footer {
+	background: linear-gradient(0deg, rgba(211,255,42,1) 10%, rgba(190,235,64,1) 50%, rgba(255,184,0,1) 100%);
+	font-family: Noto Sans;
+	text-align: center;
+	padding: 20px;
+	border: 2px solid black;
+    border-radius: 15px;
+    margin: 5px;
+}
+
+
+.destination {
+	text-align: center;
+	width: 320px;
+	border: 3px dashed #36DC3E; 
+	border-radius: 8px;
+	padding: 10px;
+	margin: 5px;
+	background-color: #FFFFFF;
+	box-shadow: 10px 11px 37px -3px rgba(0,0,0,0.87);
+	-webkit-box-shadow: 10px 11px 37px -3px rgba(0,0,0,0.87);
+	-moz-box-shadow: 10px 11px 37px -3px rgba(0,0,0,0.87);
+}
+
+
+.section {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	gap: 10px;
+	padding: 25px;
+}
